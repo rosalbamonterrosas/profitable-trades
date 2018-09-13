@@ -3,7 +3,7 @@
  * author     : Rosalba Monterrosas
  * ticker     : LULU
  * date       : July 4, 2018
- * description: Application that determines when the most profitable trade will occur for a stock at any point during a month.
+ * description: Application that determines when the most profitable trade will occur for a stock during a month.
  */
 
 #define _CRT_SECURE_NO_WARNINGS
